@@ -1,0 +1,36 @@
+🏁 Relatório Sprint 1
+🗓️ Período: (22/09) á (07/10)
+
+🎯 Objetivo da Sprint
+
+A Sprint 1 teve como principal objetivo apresentar e validar o conceito dos pedidos do cliente do INPE, estabelecendo a base para o desenvolvimento nas próximas sprints. Além disso, a sprint também serviu para acostumar os membros da equipe aos novos papéis ágeis, especialmente as funções de Product Owner (PO) e Scrum Master, promovendo alinhamento e aprendizado sobre suas responsabilidades dentro do framework Scrum.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+📦 Entregas Realizadas                                                                                                                                                          
+ -💡Apresentação do conceito e fluxo dos pedidos do cliente (protótipo ou diagrama conceitual);                                                                                   
+ -🧾Definição inicial das principais funcionalidades e requisitos relacionados aos pedidos;                                                                                        
+ -🗂️Criação e organização do backlog inicial do produto;                                                                                                                        
+ -🤝Adaptação da equipe às ferramentas e práticas ágeis utilizadas no projeto.                                      
+
+ ⚠️ Dificuldades Enfrentadas                                                                                                                                                       
+ -🧩 Adaptação inicial aos novos papéis e responsabilidades dentro do Scrum.                                                                                                     
+ -💬 Necessidade de melhorar a comunicação e o alinhamento interno da equipe.                                                                                                 
+ -⏱️ Tempo limitado para refinar os conceitos e realizar testes mais detalhados.
+
+ 📚 Aprendizados                                                                                                                                                        
+ -🔁 Importância de uma comunicação clara e constante entre todos os membros.                                                                                                  
+ -🚀 Experiência prática e maior familiaridade com o framework Scrum.                                                                                                        
+ -🧠 Melhor compreensão do processo de pedidos do cliente e sua integração com as demais áreas do sistema (entregas, notificações e pagamentos).
+
+ 🔮 Planejamento para a Sprint 2   
+
+--------------------------------------------------------------------------------------
+ # BURNDOWN SP1
+ <div align = center>
+ <img src="https://github.com/My0pes/Datlas-3DSM/blob/main/Repositorio/Imagens%20repositorio/burndown-SP1-3DSM.PNG">
+ </div>
+
+ -🧱 Entregar requisitos funcionais.                                                                                                                                            
+ -🎨 Iniciar o desenvolvimento do backend.                                                                                                                                       
+ -📋 Reorganizar e priorizar o backlog para as próximas entregas.                                                                                                               
+ -🤜🤛 Consolidar as práticas ágeis e fortalecer a colaboração entre PO, Scrum Master e equipe de desenvolvimento.
