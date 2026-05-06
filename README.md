@@ -10,9 +10,9 @@
 # 🗂️Data
 |Sprint| Data de Início | Data de Entrega | Status | Histórico |
 |------|---------------------|--------------------|---------------------|--------------------|  
-| 1 | :calendar:  ➡ (22/09) | 📆 ➡ (07/10) | Concluída | [Relatório](Repositorio/Relatórios/Sprint-1.md)
-| 2 | :calendar:  ➡ (13/10) | 📆 ➡ (04/11) | Concluída | [Relatório](Repositorio/Relatórios/Sprint-2.md)
-| 3 | :calendar:  ➡ (06/11) | 📆 ➡ (25/11) | Concluída | [Relatório](Repositorio/Relatórios/Sprint-3.md)
+| 1 | :calendar:  ➡ (13/04) | 📆 ➡ (30/04) | Concluída | [Relatório](Repositorio/Relatórios/Sprint-1.md)
+| 2 | :calendar:  ➡ (04/05) | 📆 ➡ (21/05) | Em andamento | [Relatório](Repositorio/Relatórios/Sprint-2.md)
+| 3 | :calendar:  ➡ (25/05) | 📆 ➡ (11/06) | não iniciada | [Relatório](Repositorio/Relatórios/Sprint-3.md)
 
 |       RESTRIÇÕES DE PROJETO E TECNOLOGIA      |  
 |-----------------------------------------------|  
