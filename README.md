@@ -53,23 +53,6 @@ US10: Como usuário, quero usar a caixa de zoom no mapa, para ver com mais detal
 US11: Como usuário de celular, quero um botão "Hambúrguer" que abre o menu, para navegar com facilidade em telas pequenas.
 -------------------------------------------------------------------------------------------------
 
-# BURNDOWN SP1
- <div align = center>
- <img src="">
- </div>
-
-# BURNDOWN SP2
-  <div align = center>
- <img src="">
- </div>
-
- # BURNDOWN SP3
-  <div align = center>
- <img src="">
- </div>
-
------------------------------------------------------------------------------------
-
 # 🔗 LINKS
 
 ### 🧮 JIRA
